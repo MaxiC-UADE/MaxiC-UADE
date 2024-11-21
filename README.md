@@ -11,7 +11,7 @@
 
 
 <!--h2 without bottom border-->
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <h2>📍 About me</h2>
 
 <picture> <img align="right" src="https://i0.wp.com/www.followchain.org/wp-content/uploads/2022/11/icons8-source-code-350.png?fit=350%2C350&ssl=1" width = 250px></picture>
 
